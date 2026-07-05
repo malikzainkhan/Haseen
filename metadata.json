@@ -1,0 +1,6 @@
+{
+  "name": "HSE Safety Officer Portfolio",
+  "description": "Professional HSE Safety Officer interactive portfolio for Haseen Ullah, featuring safety credentials, audit projects, hazard assessment tool, and certificates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
